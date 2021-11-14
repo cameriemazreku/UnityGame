@@ -1,0 +1,13 @@
+/Users/cameriemazreku/Projects/Homework4/Homework4/obj/Debug/netcoreapp3.1/Homework4.csproj.AssemblyReference.cache
+/Users/cameriemazreku/Projects/Homework4/Homework4/obj/Debug/netcoreapp3.1/Homework4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameriemazreku/Projects/Homework4/Homework4/obj/Debug/netcoreapp3.1/Homework4.AssemblyInfoInputs.cache
+/Users/cameriemazreku/Projects/Homework4/Homework4/obj/Debug/netcoreapp3.1/Homework4.AssemblyInfo.cs
+/Users/cameriemazreku/Projects/Homework4/Homework4/obj/Debug/netcoreapp3.1/Homework4.csproj.CoreCompileInputs.cache
+/Users/cameriemazreku/Projects/Homework4/Homework4/bin/Debug/netcoreapp3.1/Homework4.deps.json
+/Users/cameriemazreku/Projects/Homework4/Homework4/bin/Debug/netcoreapp3.1/Homework4.runtimeconfig.json
+/Users/cameriemazreku/Projects/Homework4/Homework4/bin/Debug/netcoreapp3.1/Homework4.runtimeconfig.dev.json
+/Users/cameriemazreku/Projects/Homework4/Homework4/bin/Debug/netcoreapp3.1/Homework4.dll
+/Users/cameriemazreku/Projects/Homework4/Homework4/bin/Debug/netcoreapp3.1/Homework4.pdb
+/Users/cameriemazreku/Projects/Homework4/Homework4/obj/Debug/netcoreapp3.1/Homework4.dll
+/Users/cameriemazreku/Projects/Homework4/Homework4/obj/Debug/netcoreapp3.1/Homework4.pdb
+/Users/cameriemazreku/Projects/Homework4/Homework4/obj/Debug/netcoreapp3.1/Homework4.genruntimeconfig.cache
