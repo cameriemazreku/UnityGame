@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/cameriemazreku/.dotnet/store/|arch|/|tfm|",
-      "/Users/cameriemazreku/.nuget/packages"
-    ]
-  }
-}
